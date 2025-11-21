@@ -7,5 +7,5 @@ setup
 { kitdev
  file-ext
  setup={name=kdv}
- info={link="https://github.com/MxsbDream/umkitty/.kitdev/setup/file-ext/KDVext"}
+ info={link="https://github.com/MxsbDream/umkitty/.kitdev/setup/file-ext/kdv.ext"}
    }
